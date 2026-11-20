@@ -1,0 +1,4 @@
+build/
+.DS_Store
+# 개인 작업 메모(로컬 전용)
+CLAUDE.md
